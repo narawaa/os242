@@ -1,1 +1,11 @@
 # Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://doit.vlsm.org/ETC/logCodes.txt
+ZCZC W00 100 L02 classroom meetings related
+ZCZC W00 100 L02 classroom meetings related
+ZCZC W00 20 L01 SCELE related
+ZCZC W00 15 L03 GitHub related
+ZCZC W00 15 L04 GitHub Pages related
+ZCZC W00 30 L61 Install Virtual Box
+ZCZC W00 30 L62 Install Virtual Debian
+ZCZC W00 150 L32 YouTube: watching Linux for Beginners
