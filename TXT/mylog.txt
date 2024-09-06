@@ -15,9 +15,9 @@ ZCZC W00 120 L00 Studying
 
 ZCZC W01 100 L02 classroom meetings related
 ZCZC W01 30 L01 SCELE related
-ZCZC W01 45 L11 Assignment #01
+ZCZC W01 120 L11 Assignment #01
 ZCZC W01 100 L02 classroom meetings related
 ZCZC W01 30 L01 SCELE related
-ZCZC W01 45 L11 Assignment #01
+ZCZC W01 120 L11 Assignment #01
 ZCZC W01 15 L03 GitHub related
 ZCZC W01 60 L11 Assignment #01
