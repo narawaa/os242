@@ -23,3 +23,8 @@ A video talking about the things we'll learn during this lecture and what is the
 Some easy-to-use commands you can use to inspect hardware.
 These commands will help you list PCI devices, view information about your CPU, and more.
 
+* [Linux for Beginners](https://youtu.be/pkZEKIXe3u4?si=lLe8YTXeyJ9GUziH) --- A beginner-friendly guide introducing essential Linux commands, file management, and terminal usage through practical exercises.
+
+* [Public Key and Private Key](https://youtu.be/r4HQ8Bp-pfw?si=zIzYrAEvMbP1gqZ-) --- This video simplifies how encryption works using a public key for securing data and a private key for accessing it.
+
+* [Linux Things you Need to Know](https://youtu.be/LKCVKw9CzFo?si=qepm9xD3f7HKI41c) --- A quick and easy guide to the must-know Linux basics.
