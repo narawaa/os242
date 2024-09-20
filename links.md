@@ -28,3 +28,9 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Public Key and Private Key](https://youtu.be/r4HQ8Bp-pfw?si=zIzYrAEvMbP1gqZ-) --- This video simplifies how encryption works using a public key for securing data and a private key for accessing it.
 
 * [Linux Things you Need to Know](https://youtu.be/LKCVKw9CzFo?si=qepm9xD3f7HKI41c) --- A quick and easy guide to the must-know Linux basics.
+
+* [Vim Basics in 8 Minutes](https://youtu.be/ggSyF1SVFr4?si=t6245GCT73gaq643) --- A quick 8-minute guide covering essential Vim commands for beginners.
+
+* [Backup and Restore UTM](https://youtu.be/IHeJkAJXgKc?si=AIEEvmAl6utxTEHO) --- A tutorial on backing up and restoring virtual machines in UTM for macOS users.
+
+* [FUSE](https://youtu.be/1zvOdR02hk4?si=CHUe9euLjRIG4b-P) --- An overview of FUSE, explaining its purpose and how it enables users to create custom file systems in user space.
