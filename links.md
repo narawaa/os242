@@ -33,4 +33,4 @@ These commands will help you list PCI devices, view information about your CPU, 
 
 * [Backup and Restore UTM](https://youtu.be/IHeJkAJXgKc?si=AIEEvmAl6utxTEHO) --- A tutorial on backing up and restoring virtual machines in UTM for macOS users.
 
-* [FUSE](https://youtu.be/1zvOdR02hk4?si=CHUe9euLjRIG4b-P) --- An overview of FUSE, explaining its purpose and how it enables users to create custom file systems in user space.
+* [FUSE](https://youtu.be/OZn2_j_LbRY?si=1I5bPmBU15i5cJql) --- A tutorial demonstrating how to implement a basic file system in user space using FUSE and C programming.
