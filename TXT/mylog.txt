@@ -45,3 +45,5 @@ ZCZC W03 100 L01 SCELE related
 ZCZC W03 30 L64 Helping a friend (OS related problem)
 ZCZC W03 120 L06 References/GSGS related
 
+ZCZC W04 100 L02 classroom meetings related
+ZCZC W04 90 L14 Assignment #04
