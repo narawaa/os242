@@ -34,3 +34,12 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Backup and Restore UTM](https://youtu.be/IHeJkAJXgKc?si=AIEEvmAl6utxTEHO) --- A tutorial on backing up and restoring virtual machines in UTM for macOS users.
 
 * [FUSE](https://youtu.be/OZn2_j_LbRY?si=1I5bPmBU15i5cJql) --- A tutorial demonstrating how to implement a basic file system in user space using FUSE and C programming.
+
+* [FUSE](https://youtu.be/OZn2_j_LbRY?si=1I5bPmBU15i5cJql) --- A tutorial demonstrating how to implement a basic file system in user space using FUSE and C programming.
+Here are shorter explanations:
+
+* [Endianness Explained](https://youtu.be/LxvFb63OOs8?si=JlehJMqszaVBI7YT) --- Explains how Little-endian stores the least significant byte first, and Big-endian stores the most significant byte first.
+
+* [Memory Hierarchy](https://youtu.be/8XH9tL4I8BM?si=uSXayq-ixn1PS2nd) --- Describes the memory hierarchy from fast registers to slower RAM and hard drives, balancing speed and size.
+
+* [Open a Tar File](https://youtu.be/DiBivMB8LKo?si=5QirGO1as5bqDfrA) —-- Shows how to extract a tar file.
