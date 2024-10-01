@@ -46,4 +46,9 @@ ZCZC W03 30 L64 Helping a friend (OS related problem)
 ZCZC W03 120 L06 References/GSGS related
 
 ZCZC W04 100 L02 classroom meetings related
-ZCZC W04 90 L14 Assignment #04
+ZCZC W04 110 L14 Assignment #04
+ZCZC W04 100 L02 classroom meetings related
+ZCZC W04 50 L05 Quiz related
+ZCZC W04 120 L06 References/GSGS related
+ZCZC W04 80 L32 YouTube: Operating Systems Course for Beginners
+ZCZC W04 150 L06 References/GSGS related
