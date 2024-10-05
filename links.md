@@ -35,11 +35,18 @@ These commands will help you list PCI devices, view information about your CPU, 
 
 * [FUSE](https://youtu.be/OZn2_j_LbRY?si=1I5bPmBU15i5cJql) --- A tutorial demonstrating how to implement a basic file system in user space using FUSE and C programming.
 
-* [FUSE](https://youtu.be/OZn2_j_LbRY?si=1I5bPmBU15i5cJql) --- A tutorial demonstrating how to implement a basic file system in user space using FUSE and C programming.
-Here are shorter explanations:
-
 * [Endianness Explained](https://youtu.be/LxvFb63OOs8?si=JlehJMqszaVBI7YT) --- Explains how Little-endian stores the least significant byte first, and Big-endian stores the most significant byte first.
 
 * [Memory Hierarchy](https://youtu.be/8XH9tL4I8BM?si=uSXayq-ixn1PS2nd) --- Describes the memory hierarchy from fast registers to slower RAM and hard drives, balancing speed and size.
 
-* [Open a Tar File](https://youtu.be/DiBivMB8LKo?si=5QirGO1as5bqDfrA) —-- Shows how to extract a tar file.
+* [Open a Tar File](https://youtu.be/DiBivMB8LKo?si=5QirGO1as5bqDfrA) --- Shows how to extract a tar file.
+
+* [How Does Linux Boot Process Work](https://youtu.be/XpFsMB6FoOs?si=7Q98YbHjR5QH0Y6i) --- A step-by-step explanation of the Linux boot process, from BIOS to kernel initialization.
+
+* [Paging, Segmentation, and Virtual Memory](https://youtu.be/O4nwUqQodAg?si=KCKnkgAqxTMZvrKh) --- A concise overview of memory management concepts like paging, segmentation, and virtual memory in operating systems.
+
+* [Thrashing](https://youtu.be/fMYECCDzUKc?si=TXPfK8SdWEwRmIKf) --- An explanation of thrashing, a situation where excessive paging reduces system performance.
+
+* [Techniques to Avoid Thrashing - Working Set Model](https://youtu.be/SgC-l_tgmIM?si=kRFqV3joN8GtUsPD) --- A discussion of the working set model as a technique to prevent thrashing in memory management.
+
+* [Techniques to Avoid Thrashing - Page Fault Frequency](https://youtu.be/m-6jT6CH-0M?si=MPDPz-LNJBQ2lkv5) --- An explanation of how managing page fault frequency can help avoid thrashing in virtual memory systems.
