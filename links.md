@@ -50,3 +50,9 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Techniques to Avoid Thrashing - Working Set Model](https://youtu.be/SgC-l_tgmIM?si=kRFqV3joN8GtUsPD) --- A discussion of the working set model as a technique to prevent thrashing in memory management.
 
 * [Techniques to Avoid Thrashing - Page Fault Frequency](https://youtu.be/m-6jT6CH-0M?si=MPDPz-LNJBQ2lkv5) --- An explanation of how managing page fault frequency can help avoid thrashing in virtual memory systems.
+
+* [Multicore Programming](https://youtu.be/d_DYHdIhsr4?si=_aPep3Gp00pLkQG1) --- An introduction to multicore programming, covering concepts and challenges of parallel processing on multicore systems.
+
+* [Process Vs Threads in Operating System](https://youtu.be/ITc09gOrqZk?si=EN0UeUXxaGV95-oZ) --- A comparison between processes and threads, explaining their roles and differences in operating systems.
+
+* [Fork() System Call Tutorial](https://youtu.be/xVSPv-9x3gk?si=y7xgtOIZ6Ej1kO6f) --- A guide on using the fork() system call to create processes in Unix-based operating systems.
