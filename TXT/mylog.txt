@@ -61,3 +61,12 @@ ZCZC W05 180 L06 References/GSGS related
 ZCZC W05 30 L15 Assignment #05
 ZCZC W05 60 L64 Helping a friend (OS related problem)
 ZCZC W05 100 L02 classroom meetings related
+
+ZCZC W06 20 L01 SCELE related
+ZCZC W06 100 L02 classroom meetings related
+ZCZC W06 100 L32 YouTube: Operating Systems Course for Beginners
+ZCZC W06 100 L02 classroom meetings related
+ZCZC W06 120 L01 SCELE related
+ZCZC W06 60 L16 Assignment #06
+ZCZC W06 90 L64 Helping a friend (OS related problem)
+ZCZC W06 150 L06 References/GSGS related
