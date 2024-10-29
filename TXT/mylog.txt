@@ -70,3 +70,4 @@ ZCZC W06 120 L01 SCELE related
 ZCZC W06 60 L16 Assignment #06
 ZCZC W06 90 L64 Helping a friend (OS related problem)
 ZCZC W06 150 L06 References/GSGS related
+ZCZC W06 20 L16 Assignment #06
