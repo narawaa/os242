@@ -56,3 +56,14 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Process Vs Threads in Operating System](https://youtu.be/ITc09gOrqZk?si=EN0UeUXxaGV95-oZ) --- A comparison between processes and threads, explaining their roles and differences in operating systems.
 
 * [Fork() System Call Tutorial](https://youtu.be/xVSPv-9x3gk?si=y7xgtOIZ6Ej1kO6f) --- A guide on using the fork() system call to create processes in Unix-based operating systems.
+
+* [Quick explanation: Critical section problem.](https://youtu.be/BSX1YEoCVgA?si=ppUrUifOtK06SG0k) --- A brief overview of the critical section concept and the challenges of managing shared resources safely.
+
+* [Dining-Philosophers Problem: Simplified](https://youtu.be/VSkvwzqo-Pk?si=ulOErWMHhDdMGgxJ) --- A simplified explanation of the dining philosophers problem, illustrating resource-sharing and synchronization issues.
+
+* [Difference between Semaphore and Mutex](https://youtu.be/DvF3AsTglUU?si=y883Od1tXVbb1iRM) --- A comparison between semaphores and mutexes, highlighting their uses and key differences in process synchronization.
+
+* [Starvation and Aging in Priority Scheduling](https://youtu.be/01DiVzZbRjY?si=5AyZcHSGX_fGQ48C) --- An explanation of starvation and aging concepts in priority scheduling to manage process execution fairness.
+
+* [Necessary conditions for Deadlock](https://youtu.be/x9FF723STvo?si=U2gYxjWQMX1zRcCi) --- An overview of deadlock and the four necessary conditions that must be met for it to occur.
+
