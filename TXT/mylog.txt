@@ -71,3 +71,16 @@ ZCZC W06 60 L16 Assignment #06
 ZCZC W06 90 L64 Helping a friend (OS related problem)
 ZCZC W06 150 L06 References/GSGS related
 ZCZC W06 20 L16 Assignment #06
+
+ZCZC W07 100 L02 classroom meetings related
+ZCZC W07 30 L17 Assignment #07
+ZCZC W07 60 L17 Assignment #07
+ZCZC W07 40 L06 References/GSGS related
+ZCZC W07 90 L01 SCELE related
+ZCZC W07 50 L05 Quiz related
+ZCZC W07 60 L01 SCELE related
+ZCZC W07 100 L02 classroom meetings related
+ZCZC W07 20 L17 Assignment #07
+ZCZC W07 60 L64 Helping a friend (OS related problem)
+ZCZC W07 180 L06 References/GSGS related
+
