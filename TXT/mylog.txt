@@ -84,3 +84,14 @@ ZCZC W07 20 L17 Assignment #07
 ZCZC W07 60 L64 Helping a friend (OS related problem)
 ZCZC W07 180 L06 References/GSGS related
 
+ZCZC W08 100 L02 classroom meetings related
+ZCZC W08 45 L18 Assignment #08
+ZCZC W08 180 L18 Assignment #08
+ZCZC W08 30 L06 References/GSGS related
+ZCZC W08 30 L18 Assignment #08
+ZCZC W08 90 L06 References/GSGS related
+ZCZC W08 100 L02 classroom meetings related
+ZCZC W08 100 L64 Helping a friend (OS related problem)
+ZCZC W08 120 L70 Studying for other courses.
+
+
