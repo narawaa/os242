@@ -69,7 +69,7 @@ These commands will help you list PCI devices, view information about your CPU, 
 
 * [Process Scheduling](https://youtu.be/2h3eWaPx8SA?si=QgMiZs_RxkEi3j7m) --- An overview of process scheduling, detailing how the OS allocates CPU time to processes for efficient execution.
 
-* [CPU Scheduling Criteria in Operating System | Various Times related to Process](https://youtu.be/rFt1hwh-8zU?si=e8mx2HDY1dHPFjsI) --- A breakdown of CPU scheduling criteria and different time metrics (e.g., turnaround time, waiting time) used in process management.
+* [CPU Scheduling Criteria in Operating System, Various Times related to Process](https://youtu.be/rFt1hwh-8zU?si=e8mx2HDY1dHPFjsI) --- A breakdown of CPU scheduling criteria and different time metrics (e.g., turnaround time, waiting time) used in process management.
 
 * [Deadline Scheduler in Operating System](https://www.geeksforgeeks.org/deadline-scheduler-in-operating-system/) --- An explanation of the deadline scheduler, a scheduling method that prioritizes tasks based on deadline constraints.
 
