@@ -73,3 +73,8 @@ These commands will help you list PCI devices, view information about your CPU, 
 
 * [Deadline Scheduler in Operating System](https://www.geeksforgeeks.org/deadline-scheduler-in-operating-system/) --- An explanation of the deadline scheduler, a scheduling method that prioritizes tasks based on deadline constraints.
 
+* [How Risky is Updating Your BIOS?](https://youtu.be/x3y-r06Mq2M?si=PQ28BMLUcaYXNdEy) --- Explores the risks and precautions involved in updating a computer's BIOS firmware.  
+
+* [What is Linux swap?](https://youtu.be/0mgefj9ibRE?si=HwEKx2s9juZlI--I) --- Explains Linux swap, its purpose, and how it helps manage memory when RAM is full.  
+
+* [What is a Paging File or Pagefile as Fast As Possible](https://youtu.be/1VDP5TCAK2c?si=Xr7P4E0-g9orD0bS) --- A quick explanation of the paging file, how it works, and its role in virtual memory.
